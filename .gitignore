@@ -1,0 +1,9 @@
+# dependencies
+/server/node_modules
+/web-caio/node_modules
+/web-caio/.next/
+
+#falta completar
+/server/Dockerfile
+/server/docker-compose.yml
+/server/database
